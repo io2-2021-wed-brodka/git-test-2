@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1.Artur Chmura
 2.Maciej Chlebny
 3.Anhelina Lenets
@@ -5,3 +6,10 @@
 5.Kacper Walasek
 6.Przemysław Wcisło
 7.Piotr Widomski
+=======
+1.Maciej Chlebny
+2.Anhelina Lenets
+3.Jakub Stefaniuk
+4.Przemysław Wcisło
+5.Piotr Widomski
+>>>>>>> parent of c58e693 (Merge pull request #16 from io2-2021-wed-brodka/feature/chmuraa2)
