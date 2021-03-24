@@ -1,9 +1,10 @@
 1. Maciej Chlebny
 2. Artur Chmura
-3. Tomek Karwowski
-4. Jakub Królik
-5. Jan Kupis
-6. Anhelina Lenets
-7. Jakub Stefaniuk
-8. Przemysław Wcisło
-9. Piotr Widomski
+3. Bartosz Gardziel
+4. Tomek Karwowski
+5. Jakub Królik
+6. Jan Kupis
+7. Anhelina Lenets
+8. Jakub Stefaniuk
+9. Przemysław Wcisło
+10. Piotr Widomski
