@@ -2,5 +2,6 @@
 2.Maciej Chlebny
 3.Anhelina Lenets
 4.Jakub Stefaniuk
-5.Przemysław Wcisło
-6.Piotr Widomski
+5.Kacper Walasek
+6.Przemysław Wcisło
+7.Piotr Widomski
